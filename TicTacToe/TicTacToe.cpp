@@ -109,10 +109,7 @@ void drawBoard(char a[3][3])
 	}
 
 }
-void printLaila()
-{
-	cout << "Laila" << endl;
-}
+
 
 int main()
 {
